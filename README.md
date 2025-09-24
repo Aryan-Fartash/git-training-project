@@ -1,2 +1,2 @@
 # git-training-project
-SENG300-P2
+This is  the first step of the  project 
